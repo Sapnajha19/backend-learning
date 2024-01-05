@@ -1,3 +1,3 @@
 # Learning Backend
-
-A backend project for learning purpose, enforcing project based learning.
+## Video Stream
+A backend project for learning purpose, enforcing project based learning with a video streaming app.
